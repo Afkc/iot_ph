@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "314789748626",
+    "project_id": "skripsi-iot-219de",
+    "storage_bucket": "skripsi-iot-219de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314789748626:android:f90cdfd551814fcc17ab4b",
+        "android_client_info": {
+          "package_name": "com.example.iot_ph"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOAL9x4jhaILoCNuyikFluO6-7weHPtjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
